@@ -1,0 +1,19 @@
+/* styles.css */
+
+img {
+    height: auto;
+    width: 500px;
+  }
+
+  * {
+    color: rgb(163, 133, 163);
+    background-color: rgb(65, 65, 139);
+  }
+
+  #title {
+    color: red;
+  }
+
+  h1 {
+    color: rgba(233, 138, 138, 0.411);
+  }
